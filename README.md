@@ -12,7 +12,7 @@ Welcome to **Shortly**, a fast and free URL shortener that helps you turn long, 
 
 ## Live Demo
 
-Check it out here: 
+Check it out here: https://shortly-dev.github.io/url-shortner/
 
 ## Getting Started
 
